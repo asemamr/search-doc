@@ -1,4 +1,13 @@
 {
+    "new react": {
+        "name": "React",
+        "description": "A JavaScript library for building user interfaces",
+        "icon": "images/docs/react.png",
+        "algolia_index": "react",
+        "algolia_application_id": "1FCF9AYYAT",
+        "algolia_api_key": "e8451218980a351815563de007648b00",
+        "url": "https://react.dev/"
+    },
     "react": {
         "name": "React",
         "description": "A JavaScript library for building user interfaces",
@@ -6,7 +15,7 @@
         "algolia_index": "react",
         "algolia_application_id": "BH4D9OD16A",
         "algolia_api_key": "36221914cce388c46d0420343e0bb32e",
-        "url": "https://react.dev/"
+        "url": "https://reactjs.org/docs/getting-started.html"
     },
     "vue": {
         "name": "VueJS",
