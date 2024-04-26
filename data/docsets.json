@@ -3,7 +3,7 @@
         "name": "new-React",
         "description": "A JavaScript library for building user interfaces",
         "icon": "images/docs/react.png",
-        "algolia_index": "new-react",
+        "algolia_index": "beta-react",
         "algolia_application_id": "1FCF9AYYAT",
         "algolia_api_key": "e8451218980a351815563de007648b00",
         "url": "https://react.dev/reference/react"
