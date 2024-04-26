@@ -1,6 +1,6 @@
 {
     "new react": {
-        "name": "React",
+        "name": "new React",
         "description": "A JavaScript library for building user interfaces",
         "icon": "images/docs/react.png",
         "algolia_index": "new react",
