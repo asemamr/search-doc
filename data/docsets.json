@@ -8,15 +8,6 @@
         "algolia_api_key": "e8451218980a351815563de007648b00",
         "url": "https://react.dev/reference/react"
     },
-    "react": {
-        "name": "React",
-        "description": "A JavaScript library for building user interfaces",
-        "icon": "images/docs/react.png",
-        "algolia_index": "react",
-        "algolia_application_id": "BH4D9OD16A",
-        "algolia_api_key": "36221914cce388c46d0420343e0bb32e",
-        "url": "https://reactjs.org/docs/getting-started.html"
-    },
     "vue": {
         "name": "VueJS",
         "description": "the Progressive JavaScript Framework",
@@ -52,9 +43,7 @@
         "algolia_application_id": "BH4D9OD16A",
         "algolia_api_key": "3df93446658cd9c4e314d4c02a052188",
         "url": "https://tailwindcss.com/docs/installation/",
-        "facet_filters": [
-            "version:v2"
-        ]
+        "facet_filters": ["version:v2"]
     },
     "tailwindv3": {
         "name": "Tailwind (V3)",
@@ -64,9 +53,7 @@
         "algolia_application_id": "KNPXZI5B0M",
         "algolia_api_key": "5fc87cef58bb80203d2207578309fab6",
         "url": "https://tailwindcss.com/docs/installation/",
-        "facet_filters": [
-            "version:v3"
-        ]
+        "facet_filters": ["version:v3"]
     },
     "jest": {
         "name": "Jest",
@@ -76,9 +63,7 @@
         "algolia_application_id": "BH4D9OD16A",
         "algolia_api_key": "833906d7486e4059359fa58823c4ef56",
         "url": "https://jestjs.io/docs/en/getting-started",
-        "facet_filters": [
-            "language:en"
-        ]
+        "facet_filters": ["language:en"]
     },
     "nuxt": {
         "name": "Nuxt",
@@ -88,9 +73,7 @@
         "algolia_application_id": "BH4D9OD16A",
         "algolia_api_key": "ff80fbf046ce827f64f06e16f82f1401",
         "url": "https://nuxtjs.org/",
-        "facet_filters": [
-            "tags:en"
-        ]
+        "facet_filters": ["tags:en"]
     },
     "vuepress": {
         "name": "Vuepress",
@@ -117,6 +100,15 @@
         "algolia_index": "typescriptlang",
         "algolia_application_id": "BH4D9OD16A",
         "algolia_api_key": "3c2db2aef0c7ff26e8911267474a9b2c",
+        "url": "https://www.gatsbyjs.org/docs/"
+    },
+    "new typescript": {
+        "name": "new Typescript",
+        "description": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.",
+        "icon": "images/docs/typescript.png",
+        "algolia_index": "typescriptlang",
+        "algolia_application_id": "BGCDYOIYZ5",
+        "algolia_api_key": "37ee06fa68db6aef451a490df6df7c60",
         "url": "https://www.gatsbyjs.org/docs/"
     },
     "echo": {
@@ -199,9 +191,7 @@
         "algolia_application_id": "BH4D9OD16A",
         "algolia_api_key": "97f135e4b5f5487fb53f0f2dae8db59d",
         "url": "https://vuex.vuejs.org/",
-        "facet_filters": [
-            "lang:en-US"
-        ]
+        "facet_filters": ["lang:en-US"]
     },
     "vue-router": {
         "name": "Vue Router",
@@ -211,9 +201,7 @@
         "algolia_application_id": "BH4D9OD16A",
         "algolia_api_key": "f854bb46d3de7eeb921a3b9173bd0d4c",
         "url": "https://router.vuejs.org/",
-        "facet_filters": [
-            "lang:en-US"
-        ]
+        "facet_filters": ["lang:en-US"]
     },
     "parcel": {
         "name": "parcel",
@@ -251,9 +239,7 @@
         "algolia_application_id": "BH4D9OD16A",
         "algolia_api_key": "5990ad008512000bba2cf951ccf0332f",
         "url": "https://getbootstrap.com/docs/4.5/getting-started/introduction/",
-        "facet_filters": [
-            "version:4.5"
-        ]
+        "facet_filters": ["version:4.5"]
     },
     "netlify": {
         "name": "Netlify",
@@ -326,9 +312,7 @@
         "algolia_application_id": "BH4D9OD16A",
         "algolia_api_key": "a93451de224096fb34471c8b8b049de7",
         "url": "https://strapi.io/documentation",
-        "facet_filters": [
-            "lang:en-US"
-        ]
+        "facet_filters": ["lang:en-US"]
     },
     "helm": {
         "name": "Helm",
@@ -347,9 +331,7 @@
         "algolia_application_id": "BH4D9OD16A",
         "algolia_api_key": "84890d566c1f9ad79ca62a1358e05c60",
         "url": "https://docs.directus.io",
-        "facet_filters": [
-            "lang:en-US"
-        ]
+        "facet_filters": ["lang:en-US"]
     },
     "flux": {
         "name": "FluxCD",
@@ -359,9 +341,7 @@
         "algolia_application_id": "BH4D9OD16A",
         "algolia_api_key": "45f9f14d53600b0a2cafa46a26ee10f4",
         "url": "https://fluxcd.io/",
-        "facet_filters": [
-            "tags:current"
-        ]
+        "facet_filters": ["tags:current"]
     },
     "astro": {
         "name": "Astro",
@@ -401,10 +381,7 @@
         "algolia_application_id": "1V8G7N9GF0",
         "algolia_api_key": "60a01900a4b726d667eab75b6f337592",
         "url": "https://v3.nuxtjs.org/docs",
-        "facet_filters": [
-            "language:en-US",
-            "tags:v3"
-        ]
+        "facet_filters": ["language:en-US", "tags:v3"]
     },
     "vite": {
         "name": "Vite",
@@ -414,9 +391,7 @@
         "algolia_application_id": "BH4D9OD16A",
         "algolia_api_key": "b573aa848fd57fb47d693b531297403c",
         "url": "https://v3.nuxtjs.org/docs",
-        "facet_filters": [
-            "tags:en"
-        ]
+        "facet_filters": ["tags:en"]
     },
     "vitepress": {
         "name": "VitePress",
@@ -456,9 +431,7 @@
         "algolia_application_id": "BH4D9OD16A",
         "algolia_api_key": "1a246c2737d8e8c38198dd7ea530d123",
         "url": "https://symfony.com",
-        "facet_filters": [
-            "version:current"
-        ]
+        "facet_filters": ["version:current"]
     },
     "terraform": {
         "name": "Terraform",
@@ -478,8 +451,6 @@
         "algolia_application_id": "2JPAZHQ6K7",
         "algolia_api_key": "ac32acde5503ed0ab18332e0592e9919",
         "url": "https://web.dev/",
-        "facet_filters": [
-            "locales:en"
-        ]
+        "facet_filters": ["locales:en"]
     }
 }
