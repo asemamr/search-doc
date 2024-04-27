@@ -8,6 +8,15 @@
         "algolia_api_key": "e8451218980a351815563de007648b00",
         "url": "https://react.dev/reference/"
     },
+    "drizzle": {
+        "name": "Drizzle",
+        "description": "an Orm object for sql database",
+        "icon": "images/docs/drizzle.png",
+        "algolia_index": "orm-drizzle",
+        "algolia_application_id": "MXZNUT59HV",
+        "algolia_api_key": "7c390e262ac8858df0b6624d01d9dfef",
+        "url": "https://orm.drizzle.team/docs/"
+    },
     "vue": {
         "name": "VueJS",
         "description": "the Progressive JavaScript Framework",
