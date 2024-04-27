@@ -8,6 +8,15 @@
         "algolia_api_key": "e8451218980a351815563de007648b00",
         "url": "https://react.dev/reference/"
     },
+    "next": {
+        "name": "Next",
+        "description": "the fullstack react app",
+        "icon": "images/docs/next.svg",
+        "algolia_index": "nextjs",
+        "algolia_application_id": "NNTAHQI9C5",
+        "algolia_api_key": "948b42d1edd177a55c6d6ae8dab24621",
+        "url": "https://nextjs.org/docs/"
+    },
     "drizzle": {
         "name": "Drizzle",
         "description": "an Orm object for sql database",

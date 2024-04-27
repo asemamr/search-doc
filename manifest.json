@@ -29,6 +29,13 @@
             "icon": "images/docs/drizzle.png"
         },
         {
+            "id": "kw_next",
+            "type": "keyword",
+            "name": "Next Documentation",
+            "default_value": "docs:next",
+            "icon": "images/docs/next.svg"
+        },
+        {
             "id": "kw_vue",
             "type": "keyword",
             "name": "VueJS Documentation",
