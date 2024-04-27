@@ -12,7 +12,6 @@
         "name": "Next",
         "description": "the fullstack react app",
         "icon": "images/docs/next.svg",
-        "algolia_index": "next.js",
         "algolia_application_id": "NNTAHQI9C5",
         "algolia_api_key": "948b42d1edd177a55c6d6ae8dab24621",
         "url": "https://nextjs.org/docs/"
